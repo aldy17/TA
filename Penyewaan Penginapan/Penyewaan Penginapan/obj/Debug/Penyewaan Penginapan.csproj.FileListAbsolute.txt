@@ -1,0 +1,8 @@
+C:\Users\ASUS\documents\visual studio 2015\Projects\Penyewaan Penginapan\Penyewaan Penginapan\bin\Debug\Penyewaan Penginapan.exe
+C:\Users\ASUS\documents\visual studio 2015\Projects\Penyewaan Penginapan\Penyewaan Penginapan\bin\Debug\Penyewaan Penginapan.pdb
+C:\Users\ASUS\documents\visual studio 2015\Projects\Penyewaan Penginapan\Penyewaan Penginapan\obj\Debug\Penyewaan Penginapan.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\documents\visual studio 2015\Projects\Penyewaan Penginapan\Penyewaan Penginapan\obj\Debug\Penyewaan_Penginapan.Properties.Resources.resources
+C:\Users\ASUS\documents\visual studio 2015\Projects\Penyewaan Penginapan\Penyewaan Penginapan\obj\Debug\Penyewaan Penginapan.csproj.GenerateResource.Cache
+C:\Users\ASUS\documents\visual studio 2015\Projects\Penyewaan Penginapan\Penyewaan Penginapan\obj\Debug\Penyewaan Penginapan.exe
+C:\Users\ASUS\documents\visual studio 2015\Projects\Penyewaan Penginapan\Penyewaan Penginapan\obj\Debug\Penyewaan Penginapan.pdb
+C:\Users\ASUS\documents\visual studio 2015\Projects\Penyewaan Penginapan\Penyewaan Penginapan\obj\Debug\Penyewaan_Penginapan.Menu.resources
